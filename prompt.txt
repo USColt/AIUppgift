@@ -1,0 +1,2 @@
+Make me the following app:
+File organizing tool - With TUI (Text User Interface) which allows relocation between folders, renaming of all files within a folder, partial renaming of files according to for example a regex pattern or with an added concatenated to an existing name
