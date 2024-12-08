@@ -1,5 +1,3 @@
-File Organizer
-Description
 The File Organizer is a Python script that provides a Text User Interface (TUI) for organizing files in a directory. It allows you to relocate files, rename all files by appending text, or partially rename files using a regex pattern.
 
 Requirements
